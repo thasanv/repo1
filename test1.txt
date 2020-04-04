@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is EAD7-BD7B
+
+ Directory of C:\Users\thasa\OneDrive\Desktop\GitProject
+
+04/04/2020  10:56    <DIR>          .
+04/04/2020  10:56    <DIR>          ..
+04/04/2020  10:56                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  90,529,046,528 bytes free
